@@ -30,7 +30,7 @@ This is an **interactive To-Do List app** built with **Streamlit**. It allows yo
 
 Clone the repository:
 
-git clone https://github.com/your-username/interactive-todo-app.git
+git clone https://github.com/your-username/interactive-to-do-task.git
 cd interactive-todo-app
 
 
