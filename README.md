@@ -16,9 +16,11 @@ This is an **interactive To-Do List app** built with **Streamlit**. It allows yo
 
 ---
 
-📸 Screenshot
+📸 Screenshot Result
+
 
 <img width="1907" height="958" alt="Screenshot 2025-09-02 203417" src="https://github.com/user-attachments/assets/00761df1-7361-4480-a76b-9cc8f379aab3" />
+
 
 
 ## 📦 Requirements
